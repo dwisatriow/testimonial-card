@@ -6,7 +6,7 @@ function App() {
         {/** Card container */}
         <div className="mt-[200px] flex flex-col items-center">
           {/** Card */}
-          <div className="w-[340px] rounded-lg bg-white p-6 shadow-md">
+          <div className="flex flex-col gap-5 w-[340px] rounded-lg bg-white p-6 shadow-md">
             {/** Card header */}
             <div className="flex items-center">
               <img
@@ -20,7 +20,7 @@ function App() {
               </div>
             </div>
             {/** Card body */}
-            <p className="mt-4 text-neutral-600">
+            <p className="text-neutral-600">
               I've been searching for high-quality abstract images for my design
               projects, and I'm thrilled to have found this platform. The
               variety and depth of creativity are astounding!
