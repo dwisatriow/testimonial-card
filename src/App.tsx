@@ -2,9 +2,9 @@ function App() {
   return (
     <>
       {/** App container */}
-      <div className="h-screen md:container">
+      <div className="md:container">
         {/** Card container */}
-        <div className="mt-[200px] flex h-full flex-col items-center">
+        <div className="mt-[200px] flex flex-col items-center">
           {/** Card */}
           <div className="w-[340px] rounded-lg bg-white p-6 shadow-md">
             {/** Card header */}
