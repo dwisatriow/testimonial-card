@@ -14,13 +14,13 @@ function App() {
                 alt="Profile picture"
                 className="w-12 rounded-full"
               />
-              <div className="ml-4 flex w-full flex-col">
+              <div className="flex flex-col w-full ml-4">
                 <p className="text-lg font-semibold">Sarah Dole</p>
                 <p className="mt-px text-sm text-neutral-600">@sarahdole</p>
               </div>
             </div>
             {/** Card body */}
-            <p className="mt-3 text-neutral-600">
+            <p className="mt-4 text-neutral-600">
               I've been searching for high-quality abstract images for my design
               projects, and I'm thrilled to have found this platform. The
               variety and depth of creativity are astounding!
