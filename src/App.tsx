@@ -6,7 +6,7 @@ function App() {
         {/** Card container */}
         <div className="mt-[200px] flex flex-col items-center">
           {/** Card */}
-          <div className="flex flex-col gap-5 w-[340px] rounded-lg bg-white p-6 shadow-md">
+          <div className="flex flex-col gap-4 w-[340px] rounded-lg bg-white p-6 shadow-md">
             {/** Card header */}
             <div className="flex items-center">
               <img
